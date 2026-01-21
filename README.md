@@ -4,7 +4,7 @@ A modern, responsive, and animated **Login & Registration UI** built using **HTM
 This project features a smooth toggle animation between **Sign In** and **Sign Up** forms with an elegant and minimal design.
 
 ---
-
+<br>
 ## ✨ Features
 
 - Modern and clean UI design
