@@ -26,7 +26,7 @@ This project features a smooth toggle animation between **Sign In** and **Sign U
 - **JavaScript (Vanilla JS)**
 - **Font Awesome**
 - **Google Fonts**
-
+- 
 ---
 
 ## 📂 Project Structure
